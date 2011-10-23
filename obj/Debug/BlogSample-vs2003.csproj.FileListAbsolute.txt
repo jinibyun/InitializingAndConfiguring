@@ -16,3 +16,16 @@ C:\Jini\castle active record\sample\InitializingAndConfiguring\bin\Castle.Core.x
 C:\Jini\castle active record\sample\InitializingAndConfiguring\bin\Castle.Components.Validator.xml
 C:\Jini\castle active record\sample\InitializingAndConfiguring\obj\Debug\BlogSample.exe
 C:\Jini\castle active record\sample\InitializingAndConfiguring\obj\Debug\BlogSample.pdb
+C:\Jini\git\InitializingAndConfiguring\bin\BlogSample.exe.config
+C:\Jini\git\InitializingAndConfiguring\obj\Debug\BlogSample.exe
+C:\Jini\git\InitializingAndConfiguring\obj\Debug\BlogSample.pdb
+C:\Jini\git\InitializingAndConfiguring\bin\BlogSample.exe
+C:\Jini\git\InitializingAndConfiguring\bin\BlogSample.pdb
+C:\Jini\git\InitializingAndConfiguring\bin\NHibernate.ByteCode.Castle.dll
+C:\Jini\git\InitializingAndConfiguring\bin\Castle.Components.Validator.dll
+C:\Jini\git\InitializingAndConfiguring\bin\NHibernate.Search.dll
+C:\Jini\git\InitializingAndConfiguring\bin\Castle.ActiveRecord.pdb
+C:\Jini\git\InitializingAndConfiguring\bin\Castle.ActiveRecord.xml
+C:\Jini\git\InitializingAndConfiguring\bin\Castle.Core.xml
+C:\Jini\git\InitializingAndConfiguring\bin\Castle.Components.Validator.xml
+C:\Jini\git\InitializingAndConfiguring\obj\Debug\ResolveAssemblyReference.cache
